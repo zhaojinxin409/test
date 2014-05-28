@@ -1,6 +1,6 @@
 #-*- coding:utf8 -*-
 '''
-Created on 2014年5月14日
+Created on
 
 @author: Administrator
 '''
