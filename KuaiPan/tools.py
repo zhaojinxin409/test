@@ -1,5 +1,8 @@
 #-*- coding:utf8 -*-
 
+'''
+Update..222
+'''
 def genTimeStamp():
     '''
     timestamp
