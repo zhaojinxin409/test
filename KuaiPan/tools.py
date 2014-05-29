@@ -1,7 +1,7 @@
 #-*- coding:utf8 -*-
 
 '''
-This is a tools module
+This is a tools module from master
 '''
 def genTimeStamp():
     '''
