@@ -1,6 +1,6 @@
 #-*- coding:utf8 -*-
 '''
-Created on this night
+Created on this day
 
 @author: Administrator
 '''
