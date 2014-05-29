@@ -1,7 +1,7 @@
 #-*- coding:utf8 -*-
 
 '''
-Update..222
+This is a tools module
 '''
 def genTimeStamp():
     '''
